@@ -1,0 +1,36 @@
+
+======================
+Assignment 2 Feedback
+======================
+
+Q. Were the instructions clear?
+A: Sure
+
+
+Q. How much effort did you put in this assignment?
+A: out of 1/10 = 10000
+
+
+Q. Was this assignment easy, medium or challenging? Why?
+A: Challenging considering the amount of time and effort we had to put into this. 
+
+
+Q. Did you enjoy the assignment?
+A: Yes and no. Yes when things were going smooth, no when things were going south and we had to implement intricate kotlin code after countless number of app crashes.
+
+
+Q. Did you learn anything new?
+A: For sure! 
+
+
+Q. What kind of assignments are you looking for in the future?
+A: Medium difficulty
+
+
+Q. Any feedback / comments you want to share with us?
+A: All in all, Good learning experience. 
+
+
+
+
+
